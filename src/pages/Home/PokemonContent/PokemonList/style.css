@@ -1,0 +1,50 @@
+.icon{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.icon_2{
+    width: 200px;
+    height: 200px;
+}
+
+.table{
+    border: 1px solid #88888830;
+    list-style-type: none;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0 10px;
+    padding-top: 10px;
+    margin: 0 10px;
+
+}
+
+.pokemon{
+    display: flex;
+    justify-content: space-around;
+}
+
+.displey{
+  display: flex;
+}
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
