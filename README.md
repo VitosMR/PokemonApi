@@ -1,5 +1,5 @@
-![Screenshot of the main page and information that is displayed when hovering over a Pokemon](https://github.com//PokemonApi/blob/main/і1.png)
-![Screenshot of the Pokemon page](https://github.com/PokemonApi/blob/main/2.png)
+![Screenshot of the main page and information that is displayed when hovering over a Pokemon](https://github.com/VitosMR/PokemonApi/blob/main/%D1%961.png)
+![Screenshot of the Pokemon page](https://github.com/VitosMR/PokemonApi/blob/main/2.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
